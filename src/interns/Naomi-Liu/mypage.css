@@ -1,0 +1,30 @@
+#img{
+    display: inline-block;
+    width:150px;
+    height: 90px;
+    text-align: center;
+    margin-top: 3%;
+    background-color: greyscale;
+}
+h1{
+    color:white;
+}
+
+.text{
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+    background-color: white;
+    background: rgba(255,255,255,0.9);
+}
+body {
+    color:black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    background-image: url("hello.png");
+    background-size: cover;
+    
+}
